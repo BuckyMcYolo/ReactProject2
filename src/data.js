@@ -19,7 +19,7 @@ export default [
     description:
       "Interested in becoming a wedding photographer? For beginner and experienced photographers alike, join us in learning techniques required to leave the happy couple with memories that'll last a lifetime.",
     price: 125,
-    coverImg: "../public/assets/wedding.png",
+    coverImg: "wedding.png",
     stats: {
       rating: 5.0,
       reviewCount: 30,
@@ -33,7 +33,7 @@ export default [
     description:
       "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
     price: 50,
-    coverImg: "../public/assets/bike.png",
+    coverImg: "bike.png",
     stats: {
       rating: 4.8,
       reviewCount: 2,
@@ -61,7 +61,7 @@ export default [
     description:
       "Interested in becoming a wedding photographer? For beginner and experienced photographers alike, join us in learning techniques required to leave the happy couple with memories that'll last a lifetime.",
     price: 112,
-    coverImg: "../public/assets/wedding.png",
+    coverImg: "wedding.png",
     stats: {
       rating: 4.0,
       reviewCount: 30,
@@ -75,7 +75,7 @@ export default [
     description:
       "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
     price: 77,
-    coverImg: "../public/assets/bike.png",
+    coverImg: "bike.png",
     stats: {
       rating: 4.1,
       reviewCount: 22,
