@@ -15,7 +15,7 @@ const Card = (props) => {
         <span className="gray">
           {" "}
           {props.elem.stats.rating}
-          <img src={star} alt="star" /> ({props.elem.stats.reviews}){" "}
+          <img src={star} alt="star" /> ({props.elem.stats.reviewCount}){" "}
           {props.elem.location}
         </span>
       </div>{" "}
